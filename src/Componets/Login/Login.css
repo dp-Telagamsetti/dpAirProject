@@ -1,0 +1,52 @@
+.Login-title{
+  text-align: center;
+  color: black;
+  margin-top: 175px;
+}
+ 
+.Usernametb {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 560px;
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgb(187, 202, 216);
+    border: none;
+    color: black;
+    text-indent: 15px;
+    outline: none;
+    
+  }
+  
+  .Passwordtb {
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 560px;
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgb(187, 202, 216);
+    border: none;
+    color:black;
+    text-indent: 15px;
+    outline: none;
+  }
+  
+  .button-login {
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 560px;
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: rgb(36, 37, 39);
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .button-login:hover{
+    background-color: black;
+  }
